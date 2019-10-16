@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="undefined2019/10/16/hello-world/"/>
+    <url>2019/10/16/hello-world/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>不知道弄了多少次，然后一次次跪掉，一个是懒，一个是看到过去的自己有些弱。后来想想，那些经验对于别人来说，没准还是有参考价值的。</p></blockquote><p>主要还是想记录下某个瞬间的感悟。</p><hr><a id="more"></a><p>排版预览：</p><p>Markdown cells support standard Markdown syntax as well as GitHub Flavored Markdown (GFM). Open the preview to see these rendered.</p><h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><h1 id="H1"><a href="#H1" class="headerlink" title="H1"></a>H1</h1><h2 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h2><h3 id="H3"><a href="#H3" class="headerlink" title="H3"></a>H3</h3><h4 id="H4"><a href="#H4" class="headerlink" title="H4"></a>H4</h4><h5 id="H5"><a href="#H5" class="headerlink" title="H5"></a>H5</h5><h6 id="H6"><a href="#H6" class="headerlink" title="H6"></a>H6</h6><hr><p><em>italic</em>, <strong>bold</strong>, <del>Scratch this.</del></p><p><code>inline code</code></p><h3 id="Lists"><a href="#Lists" class="headerlink" title="Lists"></a>Lists</h3><ol><li>First ordered list item</li><li>Another item<ul><li>Unordered sub-list. </li></ul></li><li>Actual numbers don’t matter, just that it’s a number<ol><li>Ordered sub-list</li></ol></li><li>And another item.</li></ol><h3 id="Quote"><a href="#Quote" class="headerlink" title="Quote"></a>Quote</h3><blockquote><p>Peace cannot be kept by force; it can only be achieved by understanding.</p></blockquote><h3 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h3><p><a href="https://www.google.com" target="_blank" rel="noopener">I’m an inline-style link</a><br><a href="http://example.com" target="_blank" rel="noopener">http://example.com</a></p><p>You can also create a link to another note: (Note menu -&gt; Copy Note Link -&gt; Paste)<br><a href="quiver-note-url/D2A1CC36-CC97-4701-A895-EFC98EF47026">01 - Getting Started</a></p><h3 id="Tables"><a href="#Tables" class="headerlink" title="Tables"></a>Tables</h3><table><thead><tr><th>Tables</th><th align="center">Are</th><th align="right">Cool</th></tr></thead><tbody><tr><td>col 3 is</td><td align="center">right-aligned</td><td align="right">$1600</td></tr><tr><td>col 2 is</td><td align="center">centered</td><td align="right">$12</td></tr><tr><td>zebra stripes</td><td align="center">are neat</td><td align="right">$1</td></tr></tbody></table><h3 id="GFM-Task-Lists"><a href="#GFM-Task-Lists" class="headerlink" title="GFM Task Lists"></a>GFM Task Lists</h3><ul><li><input disabled type="checkbox"> a task list item</li><li><input disabled type="checkbox"> list syntax required</li><li><input disabled type="checkbox"> normal <strong>formatting</strong>, @mentions, #1234 refs</li><li><input disabled type="checkbox"> incomplete</li><li><input checked disabled type="checkbox"> completed</li></ul><h3 id="Code-highlight"><a href="#Code-highlight" class="headerlink" title="Code highlight"></a>Code highlight</h3><pre><code class="js">(function (global, factory) {  typeof exports === &#39;object&#39; &amp;&amp; typeof module !== &#39;undefined&#39; ? factory(exports) :  typeof define === &#39;function&#39; &amp;&amp; define.amd ? define([&#39;exports&#39;], factory) :  (global = global || self, factory(global.acorn = {}));}(this, function (exports) { &#39;use strict&#39;;</code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
